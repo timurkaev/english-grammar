@@ -81,3 +81,7 @@ Formula:
 ❌ _Do you listening?_ → ✅ _Are you **listening**?_ _(Use "to be" instead of "do/does")_
 
 ---
+
+### **Stative verbs** **are not used** in **Present Continuous** because they express **state, not process**. But there are exceptions!
+
+[Stative verbs](Stative_Verbs.md)
