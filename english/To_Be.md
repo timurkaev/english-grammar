@@ -1,6 +1,6 @@
 # The Verb "to be"
 
-The verb **"to be"** is one of the most fundamental and complex verbs in the English language. It can function as both a **main verb** and an **auxiliary verb**.
+### The verb **"to be"** is one of the most fundamental and complex verbs in the English language. It can function as both a **main verb** and an **auxiliary verb**.
 
 ## 🔹 1. Forms and Conjugation
 

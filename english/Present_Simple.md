@@ -1,4 +1,4 @@
-**Present Simple** is used to describe **facts, habits, regular actions, and general truths.**
+### **Present Simple** is used to describe **facts, habits, regular actions, and general truths.**
 
 ---
 

@@ -1,4 +1,4 @@
-**Present Continuous** is used to **describe actions happening at the moment of speaking, temporary situations, planned future events, and changing trends.**
+### **Present Continuous** is used to **describe actions happening at the moment of speaking, temporary situations, planned future events, and changing trends.**
 
 ---
 
